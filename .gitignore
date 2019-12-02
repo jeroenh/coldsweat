@@ -1,3 +1,9 @@
+# Coldsweat user data
+etc/config
+data/coldsweat.*
+coldsweat.log
+
+# Compiled python code
 *.py[cod]
 
 # C extensions
